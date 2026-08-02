@@ -1,0 +1,1 @@
+[01-Aug-2026 14:21:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jgeddziq/public_html/colegio_admision/admin/header.php:14) in /home/jgeddziq/public_html/colegio_admision/admin/codigos_pago.php on line 11
