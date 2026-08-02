@@ -1,0 +1,5 @@
+[01-Aug-2026 06:54:42 UTC] PHP Warning:  require_once(../includes/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/jgeddziq/public_html/colegio_admision/familia/generar_pdf_v2.php on line 12
+[01-Aug-2026 06:54:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/tcpdf/tcpdf.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jgeddziq/public_html/colegio_admision/familia/generar_pdf_v2.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/jgeddziq/public_html/colegio_admision/familia/generar_pdf_v2.php on line 12
